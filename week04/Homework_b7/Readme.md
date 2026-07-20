@@ -25,12 +25,12 @@ Có thể so sánh dựa trên các chỉ số:
 
 ---
 
-## Bài 2: Dry Bean Dataset
+## D:\Khoa_He_AI\mliot-pyml-2026-hw\week04\Homework_b7\Readme.mdBài 2: Dry Bean Dataset
 
 Xây dựng mô hình phân loại các loại hạt trong bộ dữ liệu **Dry Bean Dataset** bằng hai thuật toán:
 
 1. **Logistic Regression**
-2. **K-Nearest Neighbors – KNN**
+2. **K-Nearest Neighbors – K**
 
 ### Dữ liệu
 
@@ -42,3 +42,4 @@ Dry_Bean_Dataset/
 └── dry_bean_test.csv
 
 Các bạn có thể tự tạo file processing để có thể processing theo ý mình
+```
